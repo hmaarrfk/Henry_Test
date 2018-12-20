@@ -1,5 +1,4 @@
 # Henry_Test
 My First Repository
 
-
-our goal is to learn how to use this new hardware effectively
+Learn the essence of what I'm doing without copying me directly.
